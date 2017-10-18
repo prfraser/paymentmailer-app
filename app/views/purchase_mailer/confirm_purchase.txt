@@ -1,0 +1,6 @@
+Your Purchase
+---
+Item: <%= @item %>
+
+Purchase Total:
+<%= @amount %>
